@@ -2,7 +2,9 @@
 
 <p>I am a Data Scientist with background in Applied Mathematics and Statistics, passionate about responsible AI and causal learning.</p>
 
- <p>I've spent 5 years at QuantumBlack, AI by McKinsey building robust and highly explainable ML solutions for clients in pharmaceutical, telecommunication, banking and advanced industries. Recently, I have been part of the Generative AI Lab, where I built responsible GenAI-powered solutions.</p>
+ <p>I've spent 5 years at QuantumBlack building robust and highly explainable ML solutions for clients in pharmaceutical, telecommunication, banking and advanced industries. 
+Some of my favourite projects include building an AI assitant for an international space agency and using highly explainable models to help healthcare practicionaires better cure a severe chronic disease.
+Recently, I have been part of its Generative AI Lab, where I built responsible GenAI-powered solutions.</p>
 
 <h2>Skills</h2>
 <ul class="skill-list">
