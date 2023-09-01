@@ -1,6 +1,6 @@
 ### Pryvit! I'm Viktoriia 👋
 
-<p>I am a Data Scientist with background in Applied Mathematics and Statistics, passionate about responsible AI and causal learning.</p>
+<p>I am a Data Scientist with background in Applied Mathematics and Statistics, passionate about responsible AI and causality.</p>
 
  <p>I've spent 5 years at QuantumBlack building robust and highly explainable ML solutions for clients in pharmaceutical, telecommunication, banking and advanced industries. 
 Some of my favourite projects include building an AI assitant for an international space agency and using highly explainable models to help healthcare practicionaires better cure a severe chronic disease.
